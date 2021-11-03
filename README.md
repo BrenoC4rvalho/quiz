@@ -1,0 +1,1 @@
+This project is a javascript quiz, which is dynamic, just add a question and the correct and incorrect alternatives of that question in question.js 
